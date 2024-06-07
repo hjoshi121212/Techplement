@@ -9,3 +9,4 @@ The weather app dashboard utilizes 1. HTML for defining elements such as search 
 Technology Used - Html 
                   Css
                   Javascript
+                  Openweather API
